@@ -1,4 +1,4 @@
-# Fullstack Next.js, GraphQL, Prisma app-
+# Fullstack Next.js, GraphQL, Prisma app
 
 Full-stack app built with Next.js, GraphQL and Prisma.
 
